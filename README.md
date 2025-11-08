@@ -20,3 +20,4 @@ Este repositório contém o código de uma automação web usando Cypress, Gherk
   - **Primeiros passos no Cypress**, entendendo como instalar e a **estrutura de diretórios de um projeto Cypress** no workspace da IDE (VS Code) após instalação.
 
 - [Automação Web — Cypress e Cucumber — Parte 2.]()
+  Carregando...
