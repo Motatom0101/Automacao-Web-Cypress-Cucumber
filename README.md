@@ -23,4 +23,8 @@ Este repositório contém o código de uma automação web usando Cypress, Gherk
 
 Neste artigo revemos como transformar uma automação simples, sem padrão de organização, em um **Page Objetc Model**, que nos auxiliará na organização de nosso projeto.
 
+- [Automação Web — Cypress e Cucumber — Parte 3: Cucumber e Gherkin](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-3-cucumber-e-gherkin-2c4f98e6aeb8?postPublishedType=initial)
+
+Neste artigo veremos sobre **‘Cucumber’**, **‘Gherkin’ e BDD**, **‘classe Feature’ e ‘classe Steps’**.
+
   Carregando...
