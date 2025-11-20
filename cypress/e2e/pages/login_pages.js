@@ -21,4 +21,4 @@ class loginPage{
     clicarNoBotaoEntrar(){
         cy.get(el.btnEnter).click()
     }
-}
+} export default loginPage; // Exportando a classe 'loginPage' para ser utilizada nos arquivos de Step Definitions

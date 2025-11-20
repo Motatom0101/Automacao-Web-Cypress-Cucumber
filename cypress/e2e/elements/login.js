@@ -1,4 +1,4 @@
-
+// Mapeamento dos elementos da página de login
 class loginElements{
     inputEmail = () => { return 'input[type="email"]'}
     inputPass = () => { return 'input[type="password"]'}
