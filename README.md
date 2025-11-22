@@ -27,4 +27,3 @@ Neste artigo revemos como transformar uma automação simples, sem padrão de or
 
 Neste artigo veremos sobre **‘Cucumber’**, **‘Gherkin’ e BDD**, **‘classe Feature’ e ‘classe Steps’**.
 
-  Carregando...
